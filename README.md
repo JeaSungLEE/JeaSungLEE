@@ -7,7 +7,7 @@
 - GitHub: http://github.com/jeasunglee
 - facebook: https://www.facebook.com/profile.php?id=100007616387575
 - linkedIn: www.linkedin.com/in/재성-이-b70805141
-- Notion Blog: https://www.notion.so/jercy/e4314a9d23b341309dd7209d4f8bbb4e
+- Notion Blog: https://www.jercy.dev/blog
 - Youtube: https://www.youtube.com/channel/UC9LmUoZg9CCz7RzUX-AJr8A
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeasungLee)](https://github.com/anuraghazra/github-readme-stats)
