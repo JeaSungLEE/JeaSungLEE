@@ -3,7 +3,7 @@
 ### 디자인이 이쁜 앱을 만드는 것을 좋아하고, 게임 좋아하는 iOS 개발자입니다.
 
 - Email: wotjdzz1@naver.com
-- Portfolio: http://jercy.dev
+- Portfolio: http://www.jercy.dev
 - GitHub: http://github.com/jeasunglee
 - facebook: https://www.facebook.com/profile.php?id=100007616387575
 - linkedIn: www.linkedin.com/in/재성-이-b70805141
