@@ -21,10 +21,7 @@
 - Email: wotjdzz1@naver.com
 - Portfolio: http://www.jercy.dev
 - GitHub: http://github.com/jeasunglee
-- facebook: https://www.facebook.com/profile.php?id=100007616387575
 - linkedIn: www.linkedin.com/in/재성-이-b70805141
-- Notion Blog: https://www.jercy.dev/blog
-- Youtube: https://www.youtube.com/channel/UC9LmUoZg9CCz7RzUX-AJr8A
 
 ![Jeasung's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeasungLee&layout=compact&theme=tokyonight)
 [![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=JeasungLee)](https://github.com/anuraghazra/github-readme-stats)
