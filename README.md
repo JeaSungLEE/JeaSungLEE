@@ -23,7 +23,9 @@
 - GitHub: http://github.com/jeasunglee
 - linkedIn: www.linkedin.com/in/재성-이-b70805141
 
-![Jeasung's github most Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeasungLee&layout=compact&theme=tokyonight)
-[![Jeasung's github stats](https://github-readme-stats.vercel.app/api?username=JeasungLee)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeaSungLEE&hide_progress=true&theme=radical)
+![Jeasung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeaSungLEE&show_icons=true&theme=radical)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wotjdzz1)](https://solved.ac/wotjdzz1/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=http%3A%2F%2Fgithub.com%2Fjeasunglee&count_bg=%231118A2&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
